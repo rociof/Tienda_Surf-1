@@ -1,0 +1,5 @@
+Lunes:Adultos
+Martes: Niños
+Miercoles:Avanzado
+Jueves:Iniciacion
+Viernes:MasterClass
