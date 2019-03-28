@@ -3,3 +3,5 @@ Martes: Niños
 Miercoles:Avanzado
 Jueves:Iniciacion
 Viernes:MasterClass
+Sabado:Cerrado
+Domingo:Paseo libre
